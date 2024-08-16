@@ -39,7 +39,8 @@ class PlateStack:
             print("Current stack of plates:")
             for plate in reversed(self.stack):
                 print(plate)
-
+```
+```
 def plate_stack_game():
     plate_stack = PlateStack()
     print("Welcome to the Plate Stack Game!")
@@ -65,7 +66,8 @@ def plate_stack_game():
             break
         else:
             print("Invalid choice. Please try again.")
-
+```
+```
 if __name__ == "__main__":
     plate_stack_game()
 ```
