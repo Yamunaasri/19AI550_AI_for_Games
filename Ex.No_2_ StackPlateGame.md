@@ -72,8 +72,11 @@ if __name__ == "__main__":
 
 ### Output:
 ![Screenshot 2024-08-16 111330](https://github.com/user-attachments/assets/8c26cec6-bbeb-453c-8b72-421279f4040c)
+
 ![Screenshot 2024-08-16 111351](https://github.com/user-attachments/assets/8152422c-e165-4eef-bf53-8f3fd135f2fa)
+
 ![Screenshot 2024-08-16 111342](https://github.com/user-attachments/assets/9c7687e6-e559-4484-8d5b-e2bb756a6a79)
+
 ![Screenshot 2024-08-16 111658](https://github.com/user-attachments/assets/a20bfc05-f2e1-4142-ada5-80f9821dc5f4)
 
 ### Result:
