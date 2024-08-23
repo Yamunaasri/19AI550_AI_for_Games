@@ -121,4 +121,4 @@ while True:
 
 
 ### Result:
-Thus the simple HotPotato game was implemented using Queue.
+Thus the simple snake game was implemented.
