@@ -1,4 +1,4 @@
-# Ex.No: 11  Mini Project - Tower Defense Game using Fully Connected Neural Network
+# Ex.No: 11  Mini Project - AI Tower Defense Game using Fully Connected Neural Network
 ### DATE:    25.10.2024                                                                        
 ### REGISTER NUMBER : 212222240117
 ### AIM: 
