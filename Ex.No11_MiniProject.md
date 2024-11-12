@@ -1,8 +1,8 @@
-# Ex.No: 11  Mini Project 
-### DATE:                                                                            
+# Ex.No: 11  Mini Project - Tower Defense Game using Fully Connected Neural Network
+### DATE:    25.10.2024                                                                        
 ### REGISTER NUMBER : 212222240117
 ### AIM: 
-To write a python program to simulate a tower defense game using deep learning algorithms.
+To write a python program to simulate a tower defense game using deep learning algorithms (Fully Connected Neural Network).
 ### Algorithm:
 #### 1.Initialize Game Components
 
@@ -13,7 +13,7 @@ Set up Pygame screen, colors, and basic game settings (FPS, screen size, tile si
 
 Tower Class: Towers have a range, damage, and can attack enemies within range.
 Enemy Class: Enemies have health, speed, and AI-driven movement towards the closest tower.
-EnemyAI Model: Simple neural network that determines movement direction based on enemy-tower positioning.
+EnemyAI Model: A fully connected neural network that determines movement direction based on enemy-tower positioning.
 
 #### 3.Gameplay Loop
 
@@ -232,4 +232,4 @@ Path Finding Algorithm:
 ![Screenshot 2024-11-12 102156](https://github.com/user-attachments/assets/6682e840-99b5-4aa2-875f-c4deb36915f2)
 
 ### Result:
-Thus the simple tower defense game was implemented using deep learning algorithms.
+Thus the simple tower defense game was implemented using deep learning algorithms (Fully Connected Neural Network).
